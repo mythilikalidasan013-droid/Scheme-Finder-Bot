@@ -11,6 +11,7 @@ How might we use AI to help every Indian discover government welfare schemes so 
 
  # SDG Alignment
 
+
 SDG 1 — No Poverty — Connects families to cash transfer schemes
 SDG 3 — Good Health — Surfaces health schemes like Ayushman Bharat
 SDG 4 — Quality Education — Shows scholarships for students
