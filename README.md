@@ -46,3 +46,17 @@ CSS — design and animations
 
 JavaScript — bot logic and scheme database
 
+
+<img width="1917" height="917" alt="Screenshot 2026-06-24 113624" src="https://github.com/user-attachments/assets/3212eb2e-e0de-4da1-8a1d-4b2b20200c58" />
+
+When user selects Student | Below ₹50,000 | Tamil Nadu — the bot automatically shows only student relevant schemes like National Scholarship Portal, Amma Scheme, Ayushman Bharat. No irrelevant results shown. The bot understands your profile and filters accordingly.
+
+<img width="1918" height="898" alt="Screenshot 2026-06-24 113852" src="https://github.com/user-attachments/assets/c07b3f97-061c-4448-91ba-9d49730ccba8" />
+
+Clean chat interface showing matched schemes with benefit amount and full details instantly. User does not need to search or visit any government website. Everything is shown in one place in simple English.
+
+<img width="1081" height="841" alt="Screenshot 2026-06-24 113943" src="https://github.com/user-attachments/assets/3ea827a7-cf21-46f1-9b3f-23db6b50ccd3" />
+
+
+
+
