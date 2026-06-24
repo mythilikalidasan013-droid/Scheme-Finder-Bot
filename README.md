@@ -9,13 +9,23 @@ Millions of people across India — both in villages and cities — are unaware 
 How might we use AI to help every Indian discover government welfare schemes so that poverty and inequality can be reduced?
 
 
- # SDG Alignment
+ # 🌱 SDG Alignment
 
 
-SDG 1 — No Poverty — Connects families to cash transfer schemes
-SDG 3 — Good Health — Surfaces health schemes like Ayushman Bharat
-SDG 4 — Quality Education — Shows scholarships for students
-SDG 10 — Reduced Inequalities — Makes government info accessible to everyone
+SDG 1 — No Poverty
+
+Connects families to cash transfer schemes like PM Kisan and MNREGA
+SDG 3 — Good Health and Well-being
+
+Surfaces health schemes like Ayushman Bharat for free medical treatment
+SDG 4 — Quality Education
+
+Shows scholarships and education support for students from low income families
+SDG 10 — Reduced Inequalities
+
+Makes government scheme information accessible to every Indian, rural or urban
+
+
 
  # Features
 
