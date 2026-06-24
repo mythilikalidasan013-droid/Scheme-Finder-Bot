@@ -13,16 +13,18 @@ How might we use AI to help every Indian discover government welfare schemes so 
 
 
 SDG 1 — No Poverty
-
 Connects families to cash transfer schemes like PM Kisan and MNREGA
+
+
 SDG 3 — Good Health and Well-being
-
 Surfaces health schemes like Ayushman Bharat for free medical treatment
+
+
 SDG 4 — Quality Education
-
 Shows scholarships and education support for students from low income families
-SDG 10 — Reduced Inequalities
 
+
+SDG 10 — Reduced Inequalities
 Makes government scheme information accessible to every Indian, rural or urban
 
 
