@@ -41,6 +41,8 @@ Mobile friendly
 #  Technologies Used
 
 HTML — structure
+
 CSS — design and animations
+
 JavaScript — bot logic and scheme database
 
